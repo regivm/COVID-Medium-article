@@ -1,0 +1,256 @@
+country,income_3groups,income_groups,is--country,Country,world_4region,world_6region
+aia,,,TRUE,Anguilla,Americas,America
+atg,high_income,high_income,TRUE,Antigua and Barbuda,Americas,America
+arg,middle_income,upper_middle_income,TRUE,Argentina,Americas,America
+abw,high_income,high_income,TRUE,Aruba,Americas,America
+bhs,high_income,high_income,TRUE,Bahamas,Americas,America
+brb,high_income,high_income,TRUE,Barbados,Americas,America
+blz,middle_income,upper_middle_income,TRUE,Belize,Americas,America
+bmu,high_income,high_income,TRUE,Bermuda,Americas,America
+bol,middle_income,lower_middle_income,TRUE,Bolivia,Americas,America
+bra,middle_income,upper_middle_income,TRUE,Brazil,Americas,America
+vgb,high_income,high_income,TRUE,British Virgin Islands,Americas,America
+can,high_income,high_income,TRUE,Canada,Americas,America
+cym,high_income,high_income,TRUE,Cayman Islands,Americas,America
+chl,high_income,high_income,TRUE,Chile,Americas,America
+col,middle_income,upper_middle_income,TRUE,Colombia,Americas,America
+cri,middle_income,upper_middle_income,TRUE,Costa Rica,Americas,America
+cub,middle_income,upper_middle_income,TRUE,Cuba,Americas,America
+nld_curacao,high_income,high_income,TRUE,Curaçao,Americas,America
+dma,middle_income,upper_middle_income,TRUE,Dominica,Americas,America
+dom,middle_income,upper_middle_income,TRUE,Dominican Republic,Americas,America
+ecu,middle_income,upper_middle_income,TRUE,Ecuador,Americas,America
+slv,middle_income,lower_middle_income,TRUE,El Salvador,Americas,America
+flk,,,TRUE,Falkland Is (Malvinas),Americas,America
+guf,,,TRUE,French Guiana,Americas,America
+grd,middle_income,upper_middle_income,TRUE,Grenada,Americas,America
+glp,,,TRUE,Guadeloupe,Americas,America
+gtm,middle_income,upper_middle_income,TRUE,Guatemala,Americas,America
+guy,middle_income,upper_middle_income,TRUE,Guyana,Americas,America
+hti,low_income,low_income,TRUE,Haiti,Americas,America
+hnd,middle_income,lower_middle_income,TRUE,Honduras,Americas,America
+jam,middle_income,upper_middle_income,TRUE,Jamaica,Americas,America
+mtq,,,TRUE,Martinique,Americas,America
+mex,middle_income,upper_middle_income,TRUE,Mexico,Americas,America
+msr,,,TRUE,Montserrat,Americas,America
+nic,middle_income,lower_middle_income,TRUE,Nicaragua,Americas,America
+pan,high_income,high_income,TRUE,Panama,Americas,America
+pry,middle_income,upper_middle_income,TRUE,Paraguay,Americas,America
+per,middle_income,upper_middle_income,TRUE,Peru,Americas,America
+pri,high_income,high_income,TRUE,Puerto Rico,Americas,America
+stbar,,,TRUE,St. Barthélemy,Americas,America
+kna,high_income,high_income,TRUE,St. Kitts and Nevis,Americas,America
+lca,middle_income,upper_middle_income,TRUE,St. Lucia,Americas,America
+stmar,,,TRUE,St. Martin,Americas,America
+vct,middle_income,upper_middle_income,TRUE,St. Vincent and the Grenadines,Americas,America
+spm,,,TRUE,St.-Pierre-et-Miquelon,Americas,America
+sur,middle_income,upper_middle_income,TRUE,Suriname,Americas,America
+tto,high_income,high_income,TRUE,Trinidad and Tobago,Americas,America
+tca,high_income,high_income,TRUE,Turks and Caicos Islands,Americas,America
+ury,high_income,high_income,TRUE,Uruguay,Americas,America
+usa,high_income,high_income,TRUE,USA,Americas,America
+ven,middle_income,upper_middle_income,TRUE,Venezuela,Americas,America
+vir,high_income,high_income,TRUE,Virgin Islands (U.S.),Americas,America
+asm,middle_income,upper_middle_income,TRUE,American Samoa,Asia,East_Asia_Pacific
+aus,high_income,high_income,TRUE,Australia,Asia,East_Asia_Pacific
+brn,high_income,high_income,TRUE,Brunei,Asia,East_Asia_Pacific
+khm,middle_income,lower_middle_income,TRUE,Cambodia,Asia,East_Asia_Pacific
+chn,middle_income,upper_middle_income,TRUE,China,Asia,East_Asia_Pacific
+cxr,,,TRUE,Christmas Island,Asia,East_Asia_Pacific
+cok,,,TRUE,Cook Is,Asia,East_Asia_Pacific
+fji,middle_income,upper_middle_income,TRUE,Fiji,Asia,East_Asia_Pacific
+pyf,high_income,high_income,TRUE,French Polynesia,Asia,East_Asia_Pacific
+gum,high_income,high_income,TRUE,Guam,Asia,East_Asia_Pacific
+hkg,high_income,high_income,TRUE,Hong Kong,Asia,East_Asia_Pacific
+idn,middle_income,lower_middle_income,TRUE,Indonesia,Asia,East_Asia_Pacific
+jpn,high_income,high_income,TRUE,Japan,Asia,East_Asia_Pacific
+kir,middle_income,lower_middle_income,TRUE,Kiribati,Asia,East_Asia_Pacific
+lao,middle_income,lower_middle_income,TRUE,Lao,Asia,East_Asia_Pacific
+mac,high_income,high_income,TRUE,"Macao, China",Asia,East_Asia_Pacific
+mys,middle_income,upper_middle_income,TRUE,Malaysia,Asia,East_Asia_Pacific
+mhl,middle_income,upper_middle_income,TRUE,Marshall Islands,Asia,East_Asia_Pacific
+fsm,middle_income,lower_middle_income,TRUE,"Micronesia, Fed. Sts.",Asia,East_Asia_Pacific
+mng,middle_income,lower_middle_income,TRUE,Mongolia,Asia,East_Asia_Pacific
+mmr,middle_income,lower_middle_income,TRUE,Myanmar,Asia,East_Asia_Pacific
+nru,middle_income,upper_middle_income,TRUE,Nauru,Asia,East_Asia_Pacific
+ncl,high_income,high_income,TRUE,New Caledonia,Asia,East_Asia_Pacific
+nzl,high_income,high_income,TRUE,New Zealand,Asia,East_Asia_Pacific
+niu,,,TRUE,Niue,Asia,East_Asia_Pacific
+nfk,,,TRUE,Norfolk Island,Asia,East_Asia_Pacific
+prk,low_income,low_income,TRUE,North Korea,Asia,East_Asia_Pacific
+mnp,high_income,high_income,TRUE,Northern Mariana Islands,Asia,East_Asia_Pacific
+plw,high_income,high_income,TRUE,Palau,Asia,East_Asia_Pacific
+png,middle_income,lower_middle_income,TRUE,Papua New Guinea,Asia,East_Asia_Pacific
+phl,middle_income,lower_middle_income,TRUE,Philippines,Asia,East_Asia_Pacific
+pcn,,,TRUE,Pitcairn,Asia,East_Asia_Pacific
+wsm,middle_income,upper_middle_income,TRUE,Samoa,Asia,East_Asia_Pacific
+sgp,high_income,high_income,TRUE,Singapore,Asia,East_Asia_Pacific
+slb,middle_income,lower_middle_income,TRUE,Solomon Islands,Asia,East_Asia_Pacific
+kor,high_income,high_income,TRUE,South Korea,Asia,East_Asia_Pacific
+twn,high_income,high_income,TRUE,Taiwan,Asia,East_Asia_Pacific
+tha,middle_income,upper_middle_income,TRUE,Thailand,Asia,East_Asia_Pacific
+tls,middle_income,lower_middle_income,TRUE,Timor-Leste,Asia,East_Asia_Pacific
+tkl,,,TRUE,Tokelau,Asia,East_Asia_Pacific
+ton,middle_income,upper_middle_income,TRUE,Tonga,Asia,East_Asia_Pacific
+tuv,middle_income,upper_middle_income,TRUE,Tuvalu,Asia,East_Asia_Pacific
+vut,middle_income,lower_middle_income,TRUE,Vanuatu,Asia,East_Asia_Pacific
+vnm,middle_income,lower_middle_income,TRUE,Vietnam,Asia,East_Asia_Pacific
+wlf,,,TRUE,Wallis et Futuna,Asia,East_Asia_Pacific
+abkh,,,TRUE,Abkhazia,Europe,Europe_Central_Asia
+alb,middle_income,upper_middle_income,TRUE,Albania,Europe,Europe_Central_Asia
+and,high_income,high_income,TRUE,Andorra,Europe,Europe_Central_Asia
+arm,middle_income,upper_middle_income,TRUE,Armenia,Europe,Europe_Central_Asia
+aut,high_income,high_income,TRUE,Austria,Europe,Europe_Central_Asia
+aze,middle_income,upper_middle_income,TRUE,Azerbaijan,Europe,Europe_Central_Asia
+blr,middle_income,upper_middle_income,TRUE,Belarus,Europe,Europe_Central_Asia
+bel,high_income,high_income,TRUE,Belgium,Europe,Europe_Central_Asia
+bih,middle_income,upper_middle_income,TRUE,Bosnia and Herzegovina,Europe,Europe_Central_Asia
+bgr,middle_income,upper_middle_income,TRUE,Bulgaria,Europe,Europe_Central_Asia
+chanisl,high_income,high_income,TRUE,Channel Islands,Europe,Europe_Central_Asia
+hrv,high_income,high_income,TRUE,Croatia,Europe,Europe_Central_Asia
+cyp,high_income,high_income,TRUE,Cyprus,Europe,Europe_Central_Asia
+cze,high_income,high_income,TRUE,Czechoslovakia,Europe,Europe_Central_Asia
+dnk,high_income,high_income,TRUE,Denmark,Europe,Europe_Central_Asia
+deu_east,,,TRUE,East Germany,Europe,Europe_Central_Asia
+est,high_income,high_income,TRUE,Estonia,Europe,Europe_Central_Asia
+fro,high_income,high_income,TRUE,Faeroe Islands,Europe,Europe_Central_Asia
+fin,high_income,high_income,TRUE,Finland,Europe,Europe_Central_Asia
+fra,high_income,high_income,TRUE,France,Europe,Europe_Central_Asia
+geo,middle_income,upper_middle_income,TRUE,Georgia,Europe,Europe_Central_Asia
+deu,high_income,high_income,TRUE,Germany,Europe,Europe_Central_Asia
+gib,high_income,high_income,TRUE,Gibraltar,Europe,Europe_Central_Asia
+grc,high_income,high_income,TRUE,Greece,Europe,Europe_Central_Asia
+grl,high_income,high_income,TRUE,Greenland,Europe,Europe_Central_Asia
+gbg,,,TRUE,Guernsey,Europe,Europe_Central_Asia
+hos,,,TRUE,Holy See,Europe,Europe_Central_Asia
+hun,high_income,high_income,TRUE,Hungary,Europe,Europe_Central_Asia
+isl,high_income,high_income,TRUE,Iceland,Europe,Europe_Central_Asia
+irl,high_income,high_income,TRUE,Ireland,Europe,Europe_Central_Asia
+gbm,high_income,high_income,TRUE,Isle of Man,Europe,Europe_Central_Asia
+ita,high_income,high_income,TRUE,Italy,Europe,Europe_Central_Asia
+jey,,,TRUE,Jersey,Europe,Europe_Central_Asia
+kaz,middle_income,upper_middle_income,TRUE,Kazakhstan,Asia,Europe_Central_Asia
+kos,middle_income,upper_middle_income,TRUE,Kosovo,Europe,Europe_Central_Asia
+kgz,middle_income,lower_middle_income,TRUE,Kyrgyzstan,Asia,Europe_Central_Asia
+lva,high_income,high_income,TRUE,Latvia,Europe,Europe_Central_Asia
+lie,high_income,high_income,TRUE,Liechtenstein,Europe,Europe_Central_Asia
+ltu,high_income,high_income,TRUE,Lithuania,Europe,Europe_Central_Asia
+lux,high_income,high_income,TRUE,Luxembourg,Europe,Europe_Central_Asia
+mlt,high_income,high_income,TRUE,Malta,Europe,Europe_Central_Asia
+mda,middle_income,lower_middle_income,TRUE,Moldova,Europe,Europe_Central_Asia
+mco,high_income,high_income,TRUE,Monaco,Europe,Europe_Central_Asia
+mne,middle_income,upper_middle_income,TRUE,Montenegro,Europe,Europe_Central_Asia
+nld,high_income,high_income,TRUE,Netherlands,Europe,Europe_Central_Asia
+ngokar,,,TRUE,Ngorno-Karabakh,Europe,Europe_Central_Asia
+mkd,middle_income,upper_middle_income,TRUE,North Macedonia,Europe,Europe_Central_Asia
+cyp_nor,,,TRUE,Northern Cyprus,Europe,Europe_Central_Asia
+nor,high_income,high_income,TRUE,Norway,Europe,Europe_Central_Asia
+pol,high_income,high_income,TRUE,Poland,Europe,Europe_Central_Asia
+prt,high_income,high_income,TRUE,Portugal,Europe,Europe_Central_Asia
+rou,middle_income,upper_middle_income,TRUE,Romania,Europe,Europe_Central_Asia
+rus,middle_income,upper_middle_income,TRUE,Russia,Europe,Europe_Central_Asia
+smr,high_income,high_income,TRUE,San Marino,Europe,Europe_Central_Asia
+srb,middle_income,upper_middle_income,TRUE,Serbia,Europe,Europe_Central_Asia
+scg,,,TRUE,Serbia and Montenegro,Europe,Europe_Central_Asia
+scg_ex_kos,,,TRUE,Serbia excluding Kosovo,Europe,Europe_Central_Asia
+svk,high_income,high_income,TRUE,Slovakia,Europe,Europe_Central_Asia
+svn,high_income,high_income,TRUE,Slovenia,Europe,Europe_Central_Asia
+sosset,,,TRUE,South Ossetia,Europe,Europe_Central_Asia
+esp,high_income,high_income,TRUE,Spain,Europe,Europe_Central_Asia
+sjm,,,TRUE,Svalbard,Europe,Europe_Central_Asia
+swe,high_income,high_income,TRUE,Sweden,Europe,Europe_Central_Asia
+che,high_income,high_income,TRUE,Switzerland,Europe,Europe_Central_Asia
+tjk,low_income,low_income,TRUE,Tajikistan,Asia,Europe_Central_Asia
+transn,,,TRUE,Transnistria,Europe,Europe_Central_Asia
+tur,middle_income,upper_middle_income,TRUE,Turkey,Europe,Europe_Central_Asia
+tkm,middle_income,upper_middle_income,TRUE,Turkmenistan,Asia,Europe_Central_Asia
+gbr,high_income,high_income,TRUE,UK,Europe,Europe_Central_Asia
+ukr,middle_income,lower_middle_income,TRUE,Ukraine,Europe,Europe_Central_Asia
+ussr,,,TRUE,USSR,Europe,Europe_Central_Asia
+uzb,middle_income,lower_middle_income,TRUE,Uzbekistan,Asia,Europe_Central_Asia
+deu_west,,,TRUE,West Germany,Europe,Europe_Central_Asia
+yug,,,TRUE,Yugoslavia,Europe,Europe_Central_Asia
+dza,middle_income,upper_middle_income,TRUE,Algeria,Africa,Middle_East_North_Africa
+bhr,high_income,high_income,TRUE,Bahrain,Asia,Middle_East_North_Africa
+dji,middle_income,lower_middle_income,TRUE,Djibouti,Africa,Middle_East_North_Africa
+egy,middle_income,lower_middle_income,TRUE,Egypt,Africa,Middle_East_North_Africa
+irn,middle_income,upper_middle_income,TRUE,Iran,Asia,Middle_East_North_Africa
+irq,middle_income,upper_middle_income,TRUE,Iraq,Asia,Middle_East_North_Africa
+isr,high_income,high_income,TRUE,Israel,Asia,Middle_East_North_Africa
+jor,middle_income,upper_middle_income,TRUE,Jordan,Asia,Middle_East_North_Africa
+kwt,high_income,high_income,TRUE,Kuwait,Asia,Middle_East_North_Africa
+lbn,middle_income,upper_middle_income,TRUE,Lebanon,Asia,Middle_East_North_Africa
+lby,middle_income,upper_middle_income,TRUE,Libya,Africa,Middle_East_North_Africa
+mar,middle_income,lower_middle_income,TRUE,Morocco,Africa,Middle_East_North_Africa
+yem_north,,,TRUE,North Yemen (former),Asia,Middle_East_North_Africa
+omn,high_income,high_income,TRUE,Oman,Asia,Middle_East_North_Africa
+pse,middle_income,lower_middle_income,TRUE,Palestine,Asia,Middle_East_North_Africa
+qat,high_income,high_income,TRUE,Qatar,Asia,Middle_East_North_Africa
+sau,high_income,high_income,TRUE,Saudi Arabia,Asia,Middle_East_North_Africa
+yem_south,,,TRUE,South Yemen (former),Asia,Middle_East_North_Africa
+syr,low_income,low_income,TRUE,Syria,Asia,Middle_East_North_Africa
+tun,middle_income,lower_middle_income,TRUE,Tunisia,Africa,Middle_East_North_Africa
+are,high_income,high_income,TRUE,UAE,Asia,Middle_East_North_Africa
+esh,,,TRUE,Western Sahara,Africa,Middle_East_North_Africa
+yem,low_income,low_income,TRUE,Yemen,Asia,Middle_East_North_Africa
+afg,low_income,low_income,TRUE,Afghanistan,Asia,South_Asia
+bgd,middle_income,lower_middle_income,TRUE,Bangladesh,Asia,South_Asia
+btn,middle_income,lower_middle_income,TRUE,Bhutan,Asia,South_Asia
+ind,middle_income,lower_middle_income,TRUE,India,Asia,South_Asia
+mdv,middle_income,upper_middle_income,TRUE,Maldives,Asia,South_Asia
+npl,low_income,low_income,TRUE,Nepal,Asia,South_Asia
+pak,middle_income,lower_middle_income,TRUE,Pakistan,Asia,South_Asia
+lka,middle_income,upper_middle_income,TRUE,Sri Lanka,Asia,South_Asia
+ago,middle_income,lower_middle_income,TRUE,Angola,Africa,Sub_Saharan_Africa
+ben,low_income,low_income,TRUE,Benin,Africa,Sub_Saharan_Africa
+bwa,middle_income,upper_middle_income,TRUE,Botswana,Africa,Sub_Saharan_Africa
+bfa,low_income,low_income,TRUE,Burkina Faso,Africa,Sub_Saharan_Africa
+bdi,low_income,low_income,TRUE,Burundi,Africa,Sub_Saharan_Africa
+cmr,middle_income,lower_middle_income,TRUE,Cameroon,Africa,Sub_Saharan_Africa
+cpv,middle_income,lower_middle_income,TRUE,Cape Verde,Africa,Sub_Saharan_Africa
+caf,low_income,low_income,TRUE,CAR,Africa,Sub_Saharan_Africa
+tcd,low_income,low_income,TRUE,Chad,Africa,Sub_Saharan_Africa
+com,middle_income,lower_middle_income,TRUE,Comoros,Africa,Sub_Saharan_Africa
+cog,middle_income,lower_middle_income,TRUE,Congo,Africa,Sub_Saharan_Africa
+cod,low_income,low_income,TRUE,DRC,Africa,Sub_Saharan_Africa
+gnq,middle_income,upper_middle_income,TRUE,Equatorial Guinea,Africa,Sub_Saharan_Africa
+eri,low_income,low_income,TRUE,Eritrea,Africa,Sub_Saharan_Africa
+eri_a_eth,,,TRUE,Eritrea and Ethiopia,Africa,Sub_Saharan_Africa
+swz,middle_income,lower_middle_income,TRUE,Eswatini,Africa,Sub_Saharan_Africa
+eth,low_income,low_income,TRUE,Ethiopia,Africa,Sub_Saharan_Africa
+gab,middle_income,upper_middle_income,TRUE,Gabon,Africa,Sub_Saharan_Africa
+gmb,low_income,low_income,TRUE,Gambia,Africa,Sub_Saharan_Africa
+gha,middle_income,lower_middle_income,TRUE,Ghana,Africa,Sub_Saharan_Africa
+gin,low_income,low_income,TRUE,Guinea,Africa,Sub_Saharan_Africa
+gnb,low_income,low_income,TRUE,Guinea-Bissau,Africa,Sub_Saharan_Africa
+civ,middle_income,lower_middle_income,TRUE,Ivory Coast,Africa,Sub_Saharan_Africa
+ken,middle_income,lower_middle_income,TRUE,Kenya,Africa,Sub_Saharan_Africa
+lso,middle_income,lower_middle_income,TRUE,Lesotho,Africa,Sub_Saharan_Africa
+lbr,low_income,low_income,TRUE,Liberia,Africa,Sub_Saharan_Africa
+mdg,low_income,low_income,TRUE,Madagascar,Africa,Sub_Saharan_Africa
+mwi,low_income,low_income,TRUE,Malawi,Africa,Sub_Saharan_Africa
+mli,low_income,low_income,TRUE,Mali,Africa,Sub_Saharan_Africa
+mrt,middle_income,lower_middle_income,TRUE,Mauritania,Africa,Sub_Saharan_Africa
+mus,middle_income,upper_middle_income,TRUE,Mauritius,Africa,Sub_Saharan_Africa
+myt,,,TRUE,Mayotte,Africa,Sub_Saharan_Africa
+moz,low_income,low_income,TRUE,Mozambique,Africa,Sub_Saharan_Africa
+nam,middle_income,upper_middle_income,TRUE,Namibia,Africa,Sub_Saharan_Africa
+ner,low_income,low_income,TRUE,Niger,Africa,Sub_Saharan_Africa
+nga,middle_income,lower_middle_income,TRUE,Nigeria,Africa,Sub_Saharan_Africa
+reu,,,TRUE,Reunion,Africa,Sub_Saharan_Africa
+rwa,low_income,low_income,TRUE,Rwanda,Africa,Sub_Saharan_Africa
+stp,middle_income,lower_middle_income,TRUE,Sao Tome and Principe,Africa,Sub_Saharan_Africa
+sen,middle_income,lower_middle_income,TRUE,Senegal,Africa,Sub_Saharan_Africa
+syc,high_income,high_income,TRUE,Seychelles,Africa,Sub_Saharan_Africa
+sle,low_income,low_income,TRUE,Sierra Leone,Africa,Sub_Saharan_Africa
+som,low_income,low_income,TRUE,Somalia,Africa,Sub_Saharan_Africa
+som_somland,,,TRUE,Somaliland,Africa,Sub_Saharan_Africa
+zaf,middle_income,upper_middle_income,TRUE,South Africa,Africa,Sub_Saharan_Africa
+ssd,low_income,low_income,TRUE,South Sudan,Africa,Sub_Saharan_Africa
+shn,,,TRUE,St. Helena,Africa,Sub_Saharan_Africa
+sdn,middle_income,lower_middle_income,TRUE,Sudan,Africa,Sub_Saharan_Africa
+tza,low_income,low_income,TRUE,Tanzania,Africa,Sub_Saharan_Africa
+tgo,low_income,low_income,TRUE,Togo,Africa,Sub_Saharan_Africa
+uga,low_income,low_income,TRUE,Uganda,Africa,Sub_Saharan_Africa
+zmb,middle_income,lower_middle_income,TRUE,Zambia,Africa,Sub_Saharan_Africa
+zwe,middle_income,lower_middle_income,TRUE,Zimbabwe,Africa,Sub_Saharan_Africa
